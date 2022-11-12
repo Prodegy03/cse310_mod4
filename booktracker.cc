@@ -45,8 +45,8 @@ void book::showdata()	{
 	
 }
 
-int book::search(char tbuy[20],char abuy[20] )	{
-	if(strcmp(tbuy,title)==0 && strcmp(abuy,author)==0)
+int book::search(char ttitle[20],char aauthor[20] )	{
+	if(strcmp(ttitle,title)==0 && strcmp(aauthor,author)==0)
 		return 1;
 	else return 0;
 		
