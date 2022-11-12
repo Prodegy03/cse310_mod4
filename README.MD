@@ -2,7 +2,7 @@
 
 As a book addict and a Software Developer I wanted to create a program that keeps track of my personal library of books. This program adds books, searches for books, and allows for the books information to be edited. The Information collected about the books are the title, author, and rating. I wrote this program in C++.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/39_aBmCekoY)
 
 # Development Environment
 
